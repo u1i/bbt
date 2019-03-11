@@ -1,0 +1,1 @@
+{"description":{"tags":["text"],"captions":[{"text":"a close up of text on a white background","confidence":0.79471336629661971}]},"requestId":"35b6f460-dcde-4a41-864f-77d34b0a2beb","metadata":{"width":320,"height":180,"format":"Png"}}

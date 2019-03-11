@@ -1,0 +1,1 @@
+{"description":{"tags":["cat","standing","close","old","elephant","sheep","laying","man","bear","white"],"captions":[{"text":"a close up of an animal","confidence":0.84402560488335243}]},"requestId":"fa2aaeb6-6434-4208-91f7-1ef1c3dad1f7","metadata":{"width":320,"height":180,"format":"Png"}}

@@ -1,0 +1,1 @@
+{"description":{"tags":["indoor","train","window","sitting","table","white","green","black","station","kitchen","track","large","subway","platform","man","room","bus","standing"],"captions":[{"text":"a close up of a train","confidence":0.58516651751655513}]},"requestId":"d8014843-366e-426b-9038-f627f1165f4a","metadata":{"width":320,"height":180,"format":"Png"}}

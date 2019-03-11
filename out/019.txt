@@ -1,0 +1,1 @@
+{"description":{"tags":["outdoor","grass","old","photo","field","building","sign","white","sitting","black","street","standing","stop","covered","bear","large","tall","man","hydrant","sheep"],"captions":[{"text":"an old photo of a person","confidence":0.58836040867198069}]},"requestId":"ef28271c-a6f8-419c-833f-4245a0cf0425","metadata":{"width":320,"height":180,"format":"Png"}}

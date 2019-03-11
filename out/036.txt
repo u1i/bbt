@@ -1,0 +1,1 @@
+{"description":{"tags":["text","map"],"captions":[{"text":"a close up of a map","confidence":0.61698400600119874}]},"requestId":"103cad77-d58b-4515-9fb7-0eb0612315ba","metadata":{"width":320,"height":180,"format":"Png"}}

@@ -1,0 +1,1 @@
+{"description":{"tags":["man","hat","looking","photo","wearing","standing","old","people","white","woman","large","glasses","cake","group","field","holding","city","horse","street","umbrella"],"captions":[{"text":"a man wearing a hat","confidence":0.79542131368443947}]},"requestId":"0b6c650d-8ed2-4e20-acb1-124e9d764970","metadata":{"width":320,"height":180,"format":"Png"}}

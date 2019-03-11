@@ -1,0 +1,1 @@
+{"description":{"tags":["building","white","black","sitting","shoes","pair","covered","wearing","old","cat","man","standing","woman","phone","laying","window"],"captions":[]},"requestId":"02e25a73-d4c0-4edd-9c2a-ec90cc07f62e","metadata":{"width":320,"height":180,"format":"Png"}}

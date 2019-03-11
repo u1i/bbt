@@ -1,0 +1,1 @@
+{"description":{"tags":["plane","old","outdoor","black","photo","airplane","small","sitting","white","vintage","man","air","riding","military","large","parked","runway","bicycle","standing"],"captions":[{"text":"a vintage photo of a plane","confidence":0.70620990080422741}]},"requestId":"7b6153c2-d327-48df-87dd-60ebb9f33999","metadata":{"width":320,"height":180,"format":"Png"}}

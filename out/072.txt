@@ -1,0 +1,1 @@
+{"description":{"tags":["building","man","person","holding","standing","old","black","wearing","photo","white","front","hand","hat","street","sign","phone","tall","umbrella"],"captions":[{"text":"a man standing in front of a building","confidence":0.80030827551679273}]},"requestId":"defa0b5f-9e48-46b7-b8d3-ba4999c738e6","metadata":{"width":320,"height":180,"format":"Png"}}

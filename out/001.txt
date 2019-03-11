@@ -1,0 +1,1 @@
+{"description":{"tags":["fabric"],"captions":[{"text":"a fabric surface","confidence":0.5935368924429647}]},"requestId":"80a96533-514b-4188-8e9f-50cc254837f0","metadata":{"width":320,"height":180,"format":"Png"}}

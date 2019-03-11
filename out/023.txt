@@ -1,0 +1,1 @@
+{"description":{"tags":["photo","tattoo","old","black","white","sitting","sheep","covered","standing","group","field"],"captions":[{"text":"a tattoo on his arm","confidence":0.68595748953245472}]},"requestId":"f92c1311-6653-4df0-805a-526ee1555a25","metadata":{"width":320,"height":180,"format":"Png"}}

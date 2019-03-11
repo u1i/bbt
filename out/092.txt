@@ -1,0 +1,1 @@
+{"description":{"tags":["sign","street","outdoor","text","building","reading","blue","stop","close","pole","intersection","post","white","traffic","city"],"captions":[{"text":"a close up of a street sign","confidence":0.94851326287740645}]},"requestId":"1699903d-2a2a-4772-bf6e-48bdc2e3f5a1","metadata":{"width":320,"height":180,"format":"Png"}}

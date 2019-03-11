@@ -1,0 +1,1 @@
+{"description":{"tags":["fabric","drawing","shirt"],"captions":[{"text":"a fabric surface","confidence":0.43272925539416834}]},"requestId":"554f347d-13e7-4e73-be41-2affe570b166","metadata":{"width":320,"height":180,"format":"Png"}}

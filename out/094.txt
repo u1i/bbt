@@ -1,0 +1,1 @@
+{"description":{"tags":["transport","aircraft","balloon","sitting","front","blue","small","table","standing","little","glass","holding","man","large","purple"],"captions":[{"text":"a large balloon in the sky","confidence":0.2947477872376314}]},"requestId":"decf5371-8d27-488e-b910-b7601de4c5d0","metadata":{"width":320,"height":180,"format":"Png"}}

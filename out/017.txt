@@ -1,0 +1,1 @@
+{"description":{"tags":["outdoor","covered","building","snow","sitting","white","sign","stone","group","brick","skiing","standing"],"captions":[{"text":"a close up of a stone wall","confidence":0.68467791268421063}]},"requestId":"53815492-f7fe-4c7d-a726-e2300bbe0d4f","metadata":{"width":320,"height":180,"format":"Png"}}

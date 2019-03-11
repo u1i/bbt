@@ -1,0 +1,1 @@
+{"description":{"tags":["photo","black","sitting","old","woman","white","table","front","wearing","standing","holding","wine","bear","clock","man","kitchen","stuffed","group"],"captions":[{"text":"an old photo of a person","confidence":0.63036027151666341}]},"requestId":"748b4ea7-b805-42e9-ba39-3cd903026f8d","metadata":{"width":320,"height":180,"format":"Png"}}

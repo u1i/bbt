@@ -1,0 +1,1 @@
+{"description":{"tags":["outdoor","building","photo","old","black","white","large","standing","man","water","field","people","snow","group","flying","tall","riding","tower","horse"],"captions":[{"text":"a large white building","confidence":0.71609802396384792}]},"requestId":"5f55b5b5-755c-496d-a2b2-762daf199bf3","metadata":{"width":320,"height":180,"format":"Png"}}

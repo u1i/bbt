@@ -1,0 +1,1 @@
+{"description":{"tags":["electronics","circuit"],"captions":[{"text":"a circuit board","confidence":0.9267242828620389}]},"requestId":"5eeb2578-82a9-4ef0-a227-f7edecccad82","metadata":{"width":320,"height":180,"format":"Png"}}

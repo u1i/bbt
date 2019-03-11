@@ -1,0 +1,3 @@
+
+  pic=$1
+  ./analyze.sh https://raw.githubusercontent.com/u1i/bbt/master/bbt_${pic}.png > out/$pic.txt

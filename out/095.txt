@@ -1,0 +1,1 @@
+{"description":{"tags":["skating","indoor","sitting","table","pair","shoes","black"],"captions":[{"text":"a pair of shoes","confidence":0.69599076503963075}]},"requestId":"e95bff0b-a7e1-4ed9-848c-d49f31a8754d","metadata":{"width":320,"height":180,"format":"Png"}}

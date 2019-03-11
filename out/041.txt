@@ -1,0 +1,1 @@
+{"description":{"tags":["outdoor","photo","old","snow","standing","man","water","black","group","white","sheep","field"],"captions":[{"text":"an old photo of a person","confidence":0.60441247145242938}]},"requestId":"3ff8e3f6-19c8-436e-b5b5-6417299bc4f7","metadata":{"width":320,"height":180,"format":"Png"}}

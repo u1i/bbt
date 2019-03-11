@@ -1,0 +1,1 @@
+{"description":{"tags":["object","thing","engine","sitting","man","holding","table","white","plate","skiing","baseball","player"],"captions":[{"text":"a close up of an engine","confidence":0.40020353458662539}]},"requestId":"8000091f-7a2f-4930-9762-9946165a84db","metadata":{"width":320,"height":180,"format":"Png"}}

@@ -1,0 +1,1 @@
+{"description":{"tags":["person","table","looking","man","young","woman","sitting","girl","standing","red","food","phone","plate"],"captions":[{"text":"a man and a woman looking at the camera","confidence":0.28725323214472642}]},"requestId":"19a2b84e-a890-4e88-80eb-bb7a8820c0eb","metadata":{"width":320,"height":180,"format":"Png"}}

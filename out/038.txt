@@ -1,0 +1,1 @@
+{"description":{"tags":["outdoor","photo","tree","grass","standing","black","old","covered","snow","field","white","young","woman","tall","man","people","group"],"captions":[{"text":"an old photo of a tree","confidence":0.82547646177451128}]},"requestId":"080c6f50-0572-4bc6-9c21-f0ebb482f604","metadata":{"width":320,"height":180,"format":"Png"}}

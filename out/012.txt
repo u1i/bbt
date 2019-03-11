@@ -1,0 +1,1 @@
+{"description":{"tags":["drawing","group","woman","man","young","white","people","player"],"captions":[{"text":"a group of people around each other","confidence":0.51308739535740067}]},"requestId":"cd174bdc-65b1-46e1-a526-3f09acda8975","metadata":{"width":320,"height":180,"format":"Png"}}

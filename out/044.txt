@@ -1,0 +1,1 @@
+{"description":{"tags":["building","train","black","photo","track","sitting","white","clock","old","station","large"],"captions":[{"text":"a clock that is on a train track","confidence":0.33889300819659574}]},"requestId":"6141045b-6cc2-4441-a871-7c8a36750c06","metadata":{"width":320,"height":180,"format":"Png"}}

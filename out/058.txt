@@ -1,0 +1,1 @@
+{"description":{"tags":["photo","man","old","black","standing","white","wearing","suit","bench","holding"],"captions":[{"text":"an old photo of a man","confidence":0.937191522325059}]},"requestId":"e6fe88be-4a15-4975-8e3b-2a80798b1fef","metadata":{"width":320,"height":180,"format":"Png"}}

@@ -1,0 +1,1 @@
+{"description":{"tags":["cake","food","table","covered","snow","white"],"captions":[]},"requestId":"c0ba6d7d-d125-4ed4-959c-9da03339747a","metadata":{"width":320,"height":180,"format":"Png"}}

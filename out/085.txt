@@ -1,0 +1,1 @@
+{"description":{"tags":["fruit"],"captions":[]},"requestId":"97285bfa-418b-4b35-a5e6-bc6acf5fe36f","metadata":{"width":320,"height":180,"format":"Png"}}

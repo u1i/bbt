@@ -1,0 +1,1 @@
+{"description":{"tags":["electronics","table","sitting","remote","surface","snow","laying","monitor","white","phone","cellphone"],"captions":[{"text":"a close up of electronics","confidence":0.84020158934524114}]},"requestId":"85020a78-6fec-4541-911b-bd2a9427e263","metadata":{"width":320,"height":180,"format":"Png"}}

@@ -1,0 +1,1 @@
+{"description":{"tags":["room","scene","person","man","food","kitchen","standing","woman","holding","large","table","wearing","people","white","water","group","blue"],"captions":[{"text":"a group of people in a room","confidence":0.83124599523096476}]},"requestId":"8d490bb9-4a40-4624-ae08-270c1b3c6bfd","metadata":{"width":320,"height":180,"format":"Png"}}

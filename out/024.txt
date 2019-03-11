@@ -1,0 +1,1 @@
+{"description":{"tags":["giraffe"],"captions":[{"text":"a close up of a giraffe","confidence":0.5472440154939594}]},"requestId":"51a8be7c-5e5e-4b63-ad02-32b695a1b6cd","metadata":{"width":320,"height":180,"format":"Png"}}

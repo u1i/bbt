@@ -1,0 +1,1 @@
+{"description":{"tags":["drawing","tree"],"captions":[{"text":"a drawing of a tree","confidence":0.807118927601549}]},"requestId":"b680f7cd-aacd-4191-97d7-c0cb1a185c4f","metadata":{"width":320,"height":180,"format":"Png"}}

@@ -1,0 +1,1 @@
+{"description":{"tags":[],"captions":[{"text":"a screenshot of a video game","confidence":0.27146048741625617}]},"requestId":"84f7829f-de6f-4126-b1ba-78a28d5e52e5","metadata":{"width":320,"height":180,"format":"Png"}}

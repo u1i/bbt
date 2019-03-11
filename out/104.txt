@@ -1,0 +1,1 @@
+{"description":{"tags":["black","sitting","white","plane","large","airplane","train","table","board","red","cake","parked"],"captions":[{"text":"a close up of a train","confidence":0.57652374736936673}]},"requestId":"47f80dee-8d47-4aea-85ed-520ba496753a","metadata":{"width":320,"height":180,"format":"Png"}}

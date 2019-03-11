@@ -1,0 +1,1 @@
+{"description":{"tags":["person","photo","black","old","front","posing","man","standing","white","woman","steam","wearing","vintage","holding","large","riding","train","smoke"],"captions":[{"text":"a vintage photo of Clara Barton","confidence":0.86679358658286487}]},"requestId":"8d9889d0-a1a0-4470-b4a3-a1f1d1966ab3","metadata":{"width":320,"height":180,"format":"Png"}}

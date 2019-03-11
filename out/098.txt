@@ -1,0 +1,1 @@
+{"description":{"tags":["monitor","small","computer","microwave","oven","white"],"captions":[{"text":"a close up of a computer","confidence":0.65655242000278369}]},"requestId":"676df31c-7e2a-4665-b734-e00e36d08b50","metadata":{"width":320,"height":180,"format":"Png"}}

@@ -1,0 +1,1 @@
+{"description":{"tags":["indoor","sitting","white","table","black","wooden"],"captions":[{"text":"a close up of a white table","confidence":0.56137135461549881}]},"requestId":"fdb1fde3-753b-490a-9aff-364371f2abc5","metadata":{"width":320,"height":180,"format":"Png"}}

@@ -1,0 +1,1 @@
+{"description":{"tags":["object","fireworks"],"captions":[{"text":"fireworks in the sky","confidence":0.76383000069313178}]},"requestId":"b5496a08-b911-4559-a394-3ea2b558888f","metadata":{"width":320,"height":180,"format":"Png"}}

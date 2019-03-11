@@ -1,0 +1,1 @@
+{"description":{"tags":["thing","object","telescope"],"captions":[{"text":"a close up of telescope","confidence":0.26534326315005025}]},"requestId":"b0fc36c5-cb2c-4c94-bfa4-970945a45b59","metadata":{"width":320,"height":180,"format":"Png"}}

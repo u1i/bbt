@@ -1,0 +1,1 @@
+{"description":{"tags":["building","old","man","standing","black","group","white"],"captions":[{"text":"a close up of a person with Mount Rushmore National Memorial in the background","confidence":0.57705537340195989}]},"requestId":"65746a46-dd88-4170-b4ca-0d3c5f5adecb","metadata":{"width":320,"height":180,"format":"Png"}}

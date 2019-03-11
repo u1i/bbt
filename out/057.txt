@@ -1,0 +1,1 @@
+{"description":{"tags":["photo","black","old","man","woman","white","standing"],"captions":[{"text":"an old photo of a person","confidence":0.4956523530026532}]},"requestId":"8b1b7e6b-1dd8-414b-b5f3-d0b4dbc082e8","metadata":{"width":320,"height":180,"format":"Png"}}

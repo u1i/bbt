@@ -1,0 +1,1 @@
+{"description":{"tags":["text","book","photo","old","black","wearing"],"captions":[{"text":"a close up of a book","confidence":0.276993031160306}]},"requestId":"a52ef594-96bf-42eb-a4fa-af661fb82cc8","metadata":{"width":320,"height":180,"format":"Png"}}

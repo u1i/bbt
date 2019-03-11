@@ -1,0 +1,1 @@
+{"description":{"tags":["building","photo","old","white","black","man","large","standing","vintage","filled","steam","many","kitchen","water","smoke","boat","castle","riding","train"],"captions":[{"text":"a vintage photo of a castle","confidence":0.85548672592885344}]},"requestId":"270f8f26-ed07-480d-87fb-baabc61ccb15","metadata":{"width":320,"height":180,"format":"Png"}}

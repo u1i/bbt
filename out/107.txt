@@ -1,0 +1,1 @@
+{"description":{"tags":["table","sitting","water","light","sunset","front","boat","large","sun","black","computer","ocean","wooden","yellow","red","umbrella","sign"],"captions":[{"text":"a sunset in the background","confidence":0.69537384779074041}]},"requestId":"e9fc879b-9abd-4531-b0b6-b55f015c38f0","metadata":{"width":320,"height":180,"format":"Png"}}

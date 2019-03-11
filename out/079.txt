@@ -1,0 +1,1 @@
+{"description":{"tags":["fruit","tree","bird"],"captions":[{"text":"a close up of a tree","confidence":0.77403235503916945}]},"requestId":"c48b85a2-09ed-4326-a2fe-001f8a12b547","metadata":{"width":320,"height":180,"format":"Png"}}

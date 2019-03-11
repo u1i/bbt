@@ -1,0 +1,1 @@
+{"description":{"tags":["building","artifact","stone","photo","white","black","front","large","doughnut","old","sitting","donut","standing","holding","man","street"],"captions":[{"text":"a large stone building","confidence":0.74560021577822566}]},"requestId":"5ad13fb4-1e57-4061-9718-212418c07777","metadata":{"width":320,"height":180,"format":"Png"}}

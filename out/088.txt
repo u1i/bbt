@@ -1,0 +1,1 @@
+{"description":{"tags":["indoor","white","room","sitting","table","large","sink","kitchen","black"],"captions":[{"text":"a close up of a sink","confidence":0.37135922990121789}]},"requestId":"f54e59a3-4df9-4d59-b827-dae8c6019cae","metadata":{"width":320,"height":180,"format":"Png"}}

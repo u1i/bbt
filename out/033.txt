@@ -1,0 +1,1 @@
+{"description":{"tags":["tower","building"],"captions":[{"text":"a close up of Leaning Tower of Pisa","confidence":0.51365147919700971}]},"requestId":"859dc85d-e7dc-4210-9cc6-54b3dbb9d6ca","metadata":{"width":320,"height":180,"format":"Png"}}

@@ -1,0 +1,1 @@
+{"description":{"tags":["priest","animal","mammal","looking","sitting","standing","photo","black","close","white","water","brown","bird","large","bear","man","mouth","cat","field"],"captions":[{"text":"a close up of an animal","confidence":0.84475300987510882}]},"requestId":"198bda5b-33a6-423f-9775-9bce0cc23237","metadata":{"width":320,"height":180,"format":"Png"}}

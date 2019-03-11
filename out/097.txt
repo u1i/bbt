@@ -1,0 +1,1 @@
+{"description":{"tags":["table","sitting","green","blue","cellphone"],"captions":[{"text":"a close up of a blue table","confidence":0.4305935644797797}]},"requestId":"e39e125f-7dc9-481c-b846-cfa94bf690b1","metadata":{"width":320,"height":180,"format":"Png"}}

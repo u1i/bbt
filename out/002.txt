@@ -1,0 +1,1 @@
+{"description":{"tags":["indoor","sitting","table","white","holding","glasses","old","man","standing","dog","display","plate"],"captions":[{"text":"a close up of a person","confidence":0.37714119948144537}]},"requestId":"4712f993-9974-4b55-a46b-a269eec7c776","metadata":{"width":320,"height":180,"format":"Png"}}

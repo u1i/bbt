@@ -1,0 +1,1 @@
+{"description":{"tags":["text","blackboard"],"captions":[{"text":"a close up of a blackboard","confidence":0.91592248478651228}]},"requestId":"5a2611e6-8333-471d-bbf4-8d13bdbb6755","metadata":{"width":320,"height":180,"format":"Png"}}

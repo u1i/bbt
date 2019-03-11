@@ -1,0 +1,1 @@
+{"description":{"tags":["old","looking","photo","camera","wearing","face","sitting","brown","man","front","posing","black","white","hair","bow","eyes","standing","sheep","mug"],"captions":[{"text":"a person looking at the camera","confidence":0.68760488715533008}]},"requestId":"57b18c22-ac2b-4491-a6e4-9591a008cb4b","metadata":{"width":320,"height":180,"format":"Png"}}

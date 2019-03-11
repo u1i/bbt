@@ -1,0 +1,1 @@
+{"description":{"tags":[],"captions":[{"text":"a close up of an animal","confidence":0.81678804502926461}]},"requestId":"32f97dd9-d2d8-40a4-afb5-8610767ba9ea","metadata":{"width":320,"height":180,"format":"Png"}}

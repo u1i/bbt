@@ -1,0 +1,1 @@
+{"description":{"tags":["building","person","brick","young","jumping","black","man","woman","doing","air","riding","wearing","board","trick","street","standing","playing"],"captions":[{"text":"a person doing tricks on a brick building","confidence":0.604592686387845}]},"requestId":"29d7bd32-1e11-44e4-bebe-a2c43c8b2d28","metadata":{"width":320,"height":180,"format":"Png"}}

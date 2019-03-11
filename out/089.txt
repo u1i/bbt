@@ -1,0 +1,1 @@
+{"description":{"tags":[],"captions":[{"text":"a close up of a device","confidence":0.68978262043031047}]},"requestId":"785e0b2e-14d9-453f-984b-625d48ad6a39","metadata":{"width":320,"height":180,"format":"Png"}}

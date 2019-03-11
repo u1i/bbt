@@ -1,0 +1,1 @@
+{"description":{"tags":["man","old","photo","looking","hair","front","standing","wearing","posing","suit","bow","sheep","white"],"captions":[{"text":"an old photo of a man","confidence":0.72737626048806869}]},"requestId":"fd064962-44cf-4ae7-a6a5-c935e944def0","metadata":{"width":320,"height":180,"format":"Png"}}

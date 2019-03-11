@@ -1,0 +1,1 @@
+{"description":{"tags":["old","umbrella","photo","sitting","table","snow","large","covered","standing","boat","man","white","water","train","room","display","smoke"],"captions":[{"text":"a close up of an umbrella","confidence":0.4767223714205765}]},"requestId":"a7c79aef-9e39-452a-9eb2-0a307853735c","metadata":{"width":320,"height":180,"format":"Png"}}

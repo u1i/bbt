@@ -1,0 +1,1 @@
+{"description":{"tags":["outdoor","snowboarding","thing","snow","man","board","air","riding","jumping","black","water","doing","slope","hill","game","flying"],"captions":[{"text":"a man riding a snow board in the air","confidence":0.4959837191078223}]},"requestId":"0ed216d5-9dab-4a5d-b142-5332bd64d778","metadata":{"width":320,"height":180,"format":"Png"}}

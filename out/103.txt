@@ -1,0 +1,1 @@
+{"description":{"tags":["sign","building","graffiti","side","man"],"captions":[{"text":"a sign on the side of a building","confidence":0.69007463240069278}]},"requestId":"9336670b-8888-40d8-a215-355d47af9309","metadata":{"width":320,"height":180,"format":"Png"}}
