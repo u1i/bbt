@@ -12,8 +12,8 @@ do
   fi
 
   echo "### $pic" >> results.md
-  echo "![](bbt_$pic.png)  " >> results.md
+  echo "![](./img/bbt_$pic.png)  " >> results.md
   echo "**Description:** $descr  " >> results.md
   echo "**Tags:** $tags  " >> results.md
-  echo "**Confidence:** $confidence %  " >> results.md  
+  echo "**Confidence:** $confidence %  " >> results.md
 done
