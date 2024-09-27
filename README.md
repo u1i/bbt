@@ -6,6 +6,7 @@ This project shows the evolution of computer vision technology by analyzing fram
 
 By comparing outputs from 2019 and 2024, we can observe significant advancements in AI capabilities.
 
+![](bbt.jpg)
 
 - [2019 Analysis](2019.md)
 - [2024 Analysis](2024.md)
